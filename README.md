@@ -1,0 +1,1 @@
+recupera un hecho aleatorio de gatos en la primera API y muestra una imagen de un gato con la primera palabra del hecho recuperado usando la segunda API 
